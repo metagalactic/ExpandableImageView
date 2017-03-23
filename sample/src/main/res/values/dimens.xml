@@ -1,0 +1,12 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="toolbar_expanded_height">180dp</dimen>
+
+    <dimen name="image_pager_default_height">400dp</dimen>
+    <dimen name="image_pager_default_height_expanded">600dp</dimen>
+
+</resources>
