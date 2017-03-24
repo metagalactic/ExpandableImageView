@@ -24,7 +24,7 @@ Add jitpack to your root `build.gradle`
 Add the dependency
 ```
 	dependencies {
-	        compile 'com.github.metagalactic2:ExpandableImageView:0.0.1'
+	        compile 'com.github.metagalactic:ExpandableImageView:0.0.1'
 	}
 ```
 
