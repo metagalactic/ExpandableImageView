@@ -4,7 +4,7 @@ Expandable + Scalable + View Pager
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 ![SDK](https://img.shields.io/badge/SDK-16%2B-green.svg)
-![Release](https://img.shields.io/badge/release-0.0.1-green.svg)
+![Release](https://img.shields.io/badge/release-0.0.2-green.svg)
 [![Jitpack](https://jitpack.io/v/metagalactic/ExpandableImageView.svg)](https://jitpack.io/#metagalactic/ExpandableImageView)
 [![Build Status](https://travis-ci.org/metagalactic/ExpandableImageView.svg?branch=master)](https://travis-ci.org/metagalactic/ExpandableImageView)
 [![CircleCI](https://circleci.com/gh/metagalactic/ScalableImageView.svg?style=svg)](https://circleci.com/gh/metagalactic/ExpandableImageView)
@@ -24,7 +24,7 @@ Add jitpack to your root `build.gradle`
 Add the dependency
 ```
 	dependencies {
-	        compile 'com.github.metagalactic:ExpandableImageView:0.0.1'
+	        compile 'com.github.metagalactic:ExpandableImageView:0.0.2'
 	}
 ```
 
