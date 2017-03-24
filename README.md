@@ -32,6 +32,7 @@ Add the dependency
 
 ![expand_view_demo](screenshots/demo.gif)
 
+Note : This library uses [ScalableImageView](https://github.com/metagalactic/ScalableImageView) 
 
 License
 -------
